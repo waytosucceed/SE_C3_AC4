@@ -1,0 +1,39 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "What will be the missing value?<br><img width='65%' src='./assests/images/1.png'>",
+      "options": ["3", "6", "15", "30"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "Find the sum of A, B and C, here D is a multiple of 3?<br><img width='65%' src='./assests/images/3.png'>",
+      "options": ["102", "120", "104", "140"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q3",
+      "question": "A company wants to distribute 168 pens, 252 pencils, and 336 erasers equally among the greatest number of employees, ensuring each employee gets the same quantity of each item. How many employees can receive the items, and how many of each item will they get?",
+      "options": ["84, 3, 4, 5", "72, 8 ,9", "84, 2, 3, 4", "68, 12, 13, 15"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q4",
+      "question": "Two numbers A and B have HCF 5, the first number is completely divisible by 24 and the other number is a multiple of 5. Then the numbers A and B are ___?",
+      "options": ["130 , 50", "125, 45", "120, 55", "Information is insufficient"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q5",
+      "question": "A company wants to distribute 450 pens, 300 notebooks, and 225 markers into identical sets. What is the maximum number of sets they can create, and what does each set contain?",
+      "options": ["25 sets, each with 18 pens, 12 notebooks, 9 markers", "50 sets, each with 9 pens, 6 notebooks, 5 markers", "75 sets, each with 6 pens, 4 notebooks, 3 markers", "90 sets, each with 5 pens, 3 notebooks, 2 markers"],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q6",
+      "question": "Which of the following options is true for the given statement?<ol style='text-align:left;'><li>Every number has a finite number of multiples</li><li>The smallest prime number is 1</li><li>Factors are smaller than or equal to the number</li><li>Every natural number greater than 1 has at least 2 factors</li></ol>",
+      "options": ["Statement 1 and 2 are correct", "Statement 2 and 3 are correct", "Statement 3 and 4 are correct", "Statement 1 and 4 are correct"],
+      "correct": 2
+    }
+  ]
+  
